@@ -12,8 +12,8 @@ Ayant toujours été attirée par le web, je me suis lancée dans le **développ
 En juillet 2020, j'ai donc intégré la promotion Kraken 🐙 auprès de l'école O'clock. (https://oclock.io/)
 
 *Au programme : une formation de 5 mois - 700 heures - format téléprésentiel :*
-- 3 mois d'apprentissage du socle : HTML, CSS, PHP, JavaScript, MySQL, Bootstrap, APIs...
-- 1 mois de spécialisation : REACT ⚛️
+- 3 mois d'apprentissage du socle : HTML, CSS, PHP, MVC, POO, JavaScript, MySQL, Bootstrap, APIs..
+- 1 mois de spécialisation : REACT ⚛️, Redux, SASS, Semantic UI..
 - 1 mois de projet : à venir...
 
 <!--
