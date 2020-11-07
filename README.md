@@ -1,8 +1,12 @@
 ### Hello world 👋
 
 Je m'appelle Jordane, j'ai 27 ans.
+
+
 J'ai travaillé pendant presque 4 ans dans le domaine paramédical. 
 En 2020, j'ai pris mon courage à deux mains, et j'ai passé le cap de la **reconversion professionnelle.** 🚀
+
+
 Ayant toujours été attirée par le web, je me suis lancée dans le **développement web** : un domaine qui me passionne ! 💻
 
 En juillet 2020, j'ai donc intégré la promotion Kraken 🐙 auprès de l'école O'clock. (https://oclock.io/)
