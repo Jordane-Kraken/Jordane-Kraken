@@ -1,9 +1,9 @@
 ### Hello world 👋
 
-Je m'appelle Jordane, j'ai 27 ans.
+Je m'appelle Jordane, j'ai 28 ans.
 
 
-J'ai travaillé pendant presque 4 ans dans le domaine paramédical. 
+J'ai travaillé pendant 4 ans dans le domaine paramédical. 
 En 2020, j'ai pris mon courage à deux mains, et j'ai passé le cap de la **reconversion professionnelle.** 🚀
 
 
