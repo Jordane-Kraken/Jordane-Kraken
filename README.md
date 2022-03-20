@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-Je m'appelle Jordane, j'ai 28 ans et je suis passionnée par le développement web et la découverte de nouvelles technologies. 💻
+Je m'appelle Jordane, j'ai 29 ans et je suis passionnée par le développement web et la découverte de nouvelles technologies. 💻
 <!--
 **Jordane-Kraken/Jordane-Kraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
